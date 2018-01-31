@@ -3,6 +3,8 @@
 # Assessment 1
 For Assessment 1, we had to make a simple chart of given data. The barchart is used to visualize the amount of languages that is spoken.
 
+See the assessment on this [link](https://spaarwt001.github.io/fe3-assessment-1/)
+
 
 ## Features
 * [d3.tsv](https://github.com/d3/d3-request/blob/master/README.md#tsv)
