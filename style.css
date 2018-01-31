@@ -1,0 +1,12 @@
+.axis text {
+  font: 12px;
+  fill: black;
+}
+
+.bar {
+    fill: black;
+}
+
+.bar:hover {
+    fill: green;
+}
